@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">COVID-19 in Canada</string>
+    <string name="str_summary">Summary</string>
+    <string name="cases">Cases</string>
+    <string name="deaths">Deaths</string>
+    <string name="hospitalized">Hospitalized</string>
+    <string name="recoveries">Recoveries</string>
+    <string name="tests">Tests</string>
+    <string name="_100">-</string>
+    <string name="summary">Summary</string>
+    <string name="by_province">By Province</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
